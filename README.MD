@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width"400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw3aoInh0MNEUEogxV3rDnrt&ust=1743417987166000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjjqaDQsYwDFQAAAAAdAAAAABAE
+
 
 - 🌱 I’m currently learning **DSA**
 
